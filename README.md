@@ -18,9 +18,6 @@ This Python script uses Selenium to simulate a human-like Google search. It type
   pip install selenium webdriver-manager
   ```
 
-### How to Use
-Just run the script.
-
 ---
 
 ## فارسی 🇮🇷
@@ -40,6 +37,3 @@ Just run the script.
   ```bash
   pip install selenium webdriver-manager
   ```
-
-### نحوه استفاده
-کافیست اسکریپت را اجرا کنید.
