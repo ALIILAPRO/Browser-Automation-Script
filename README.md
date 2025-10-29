@@ -1,6 +1,6 @@
 # Browser-Automation-Script
 
-## English Description 🇬🇧
+## English 🇬🇧
 
 This Python script uses Selenium to simulate a human-like Google search. It types the query character by character with random delays, opens the first result, and avoids detection as a bot by tweaking browser settings.
 
@@ -23,7 +23,7 @@ Just run the script.
 
 ---
 
-## توضیحات فارسی 🇮🇷
+## فارسی 🇮🇷
 
 این اسکریپت پایتون با استفاده از Selenium یک جستجوی شبیه انسان در گوگل انجام می‌دهد. عبارت جستجو را حرف به حرف با تأخیر تصادفی تایپ می‌کند، اولین نتیجه را باز می‌کند و با تنظیمات خاص از شناسایی به عنوان ربات جلوگیری می‌کند.
 
